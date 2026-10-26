@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing and IDEs
+.pytest_cache/
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+temp*
